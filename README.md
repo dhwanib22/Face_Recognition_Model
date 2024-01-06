@@ -22,7 +22,3 @@ While the current model performs well on the provided dataset, it is important t
 * **Preprocessing with Face Detection:** Integrating a face detection model as a preprocessing step can enhance the system's performance on real-world data. Using the output of the face detection model to build other models can lead to more accurate predictions.
 
 Consider these suggestions to enhance the system's robustness and adaptability in a broader range of scenarios. Regular updates and improvements to the dataset and model architecture will contribute to the effectiveness of the facial recognition system.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed. Contributions are welcome!
