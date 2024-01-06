@@ -1,1 +1,1 @@
-# -Image_Recognition_Model
+# Image_Recognition_Model
