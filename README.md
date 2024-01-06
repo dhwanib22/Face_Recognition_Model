@@ -4,7 +4,14 @@
 
 This GitHub repository contains the code and documentation for a facial recognition system based on a Sequential Neural Network with an autoencoder layer. The model has been trained on batch images of our classmates, each labeled with a respective identifier. The dataset is saved and split using `np.savez('insofe2020_dataset.npz', images=images, labels=labels)`.
 
-## Conclusion
+## Key Features
+
+* Employs an autoencoder layer for efficient feature extraction and dimensionality reduction.
+* Utilizes a sequential neural network architecture for classification.
+* Handles image loading, preprocessing, and dataset splitting.
+* Provides insights on potential improvements for real-world performance.
+
+## Limitations and Potential Improvements
 
 While the current model performs well on the provided dataset, it is important to acknowledge its limitations and consider potential improvements for real-world applications.
 
